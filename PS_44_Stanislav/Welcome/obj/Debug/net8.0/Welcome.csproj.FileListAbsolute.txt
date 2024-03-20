@@ -12,3 +12,4 @@ C:\Users\Acer\Desktop\C#\PS_44_Stanislav\Welcome\obj\Debug\net8.0\refint\Welcome
 C:\Users\Acer\Desktop\C#\PS_44_Stanislav\Welcome\obj\Debug\net8.0\Welcome.pdb
 C:\Users\Acer\Desktop\C#\PS_44_Stanislav\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
 C:\Users\Acer\Desktop\C#\PS_44_Stanislav\Welcome\obj\Debug\net8.0\ref\Welcome.dll
+C:\Users\Acer\Desktop\C#\PS_44_Stanislav\Welcome\obj\Debug\net8.0\Welcome.sourcelink.json

@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\acer\\desktop\\c#\\ps_44_stanislav\\welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\acer\\desktop\\c#\\ps_44_stanislav\\welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\acer\\desktop\\c#\\ps_44_stanislav\\welcomeextended\\others\\actiononerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\actiononerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\acer\\desktop\\c#\\ps_44_stanislav\\welcomeextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\acer\\desktop\\c#\\ps_44_stanislav\\welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\acer\\desktop\\c#\\ps_44_stanislav\\welcomeextended\\helpers\\loggerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3F7728-75A5-49B9-B2B1-91D0843AF1A5}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\loggerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ActionOnError.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Others\\ActionOnError.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\ActionOnError.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Others\\ActionOnError.cs",
-              "RelativeToolTip": "WelcomeExtended\\Others\\ActionOnError.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T18:08:27.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Program.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Program.cs",
-              "RelativeToolTip": "WelcomeExtended\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T17:52:10.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "HashLogger.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Loggers\\HashLogger.cs",
               "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\HashLogger.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Loggers\\HashLogger.cs",
               "RelativeToolTip": "WelcomeExtended\\Loggers\\HashLogger.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:36:31.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delegates.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Others\\Delegates.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\Delegates.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Others\\Delegates.cs",
-              "RelativeToolTip": "WelcomeExtended\\Others\\Delegates.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:34:53.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoggerProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
-              "RelativeToolTip": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T17:56:41.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoggerHelpers.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Helpers\\LoggerHelpers.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\LoggerHelpers.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\PS_44_Stanislav\\WelcomeExtended\\Helpers\\LoggerHelpers.cs",
-              "RelativeToolTip": "WelcomeExtended\\Helpers\\LoggerHelpers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:36:43.529Z",
+              "WhenOpened": "2024-03-20T12:09:20.876Z",
               "EditorCaption": ""
             }
           ]
